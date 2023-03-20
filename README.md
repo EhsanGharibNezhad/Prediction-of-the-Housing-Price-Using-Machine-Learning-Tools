@@ -2,15 +2,12 @@
  creating a rigirious, recursive model for predicting house price using Ames housing database
 
 <br><br>
-### problem <b>statement</b>
+### Problem <b>statement</b>
 House price is a critical subject for many people no matter if they are homeowners or not. Predicting the sale price is not a trivial subject since several factors are in play! Home features such as age, lot fit, location are among the tens of those that control the price. However, understanding and disentangling these features and their impact on the price is required rigorous statistical modeling. In this project, I used the housing market's detailed information from Ames, Iowa from 2006 to 2010 in order to build a statistical model. more than 50 house features are used in this model. The main objective is to infer the correlation between these features and predict the sale price   
 
----
----
 
 <br></br>
-### contents, <b>briefly</b>
----
+### Contents
 - readme
     - [File Structure](#fstruc)
     - [Data Dictionary](#ddict)
@@ -22,14 +19,11 @@ House price is a critical subject for many people no matter if they are homeowne
 
 
 ---
----
-### <a id = 'fstruc'>file <b>structure</b></a>
+### <a id = 'fstruc'>file <b>Structure</b></a>
 
 
 
-project-2
-
-code <br />
+Code <br />
 __ [01_Training_Dataset_Data_Cleaning_Feature_Engineering.ipynb](code/01_Training_Dataset_Data_Cleaning_Feature_Engineering.ipynb)<br />
 __ [02_Test_Dataset_Data_Cleaning_Feature_Engineering.ipynb](code/02_Test_Dataset_Data_Cleaning_Feature_Engineering.ipynb)<br />
 __ [03_Exploratory_Data_Analysis.ipynb](code/03_Exploratory_Data_Analysis.ipynb)  <br />
@@ -49,13 +43,10 @@ __ [train_df_cleaned.csv](datasets/train_df_cleaned.csv)<br />
 
 [README.md](README.md)<br />
 
----
+
 ---
 <br></br>
 ### <a id = 'ddict'>data <b>dictionary</b></a>
----
-
-
 
 |feature name|data type|Definition|
 |---|---|---|
@@ -147,13 +138,7 @@ __ [train_df_cleaned.csv](datasets/train_df_cleaned.csv)<br />
 |Sale  Type  |*object*|  type    sale|
 |SalePrice  |*float*|  sale    price|
 
----
----
 
-
-
-
----
 ---
 <i>below, a rough outline of the workflow utilized for the duration of this project is illustrated in the following:</i>
 <br></br>
