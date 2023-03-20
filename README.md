@@ -1,11 +1,8 @@
-# <b> Prediction of the Housing Price Using Machine Learning Tools </b>
-#### creating a rigirious, recursive model for predicting house price using Ames housing database
----
----
+# <b> Housing Sales Price Prediction Using Machine Learning Tools </b>
+ creating a rigirious, recursive model for predicting house price using Ames housing database
 
-<br></br>
+<br><br>
 ### problem <b>statement</b>
----
 House price is a critical subject for many people no matter if they are homeowners or not. Predicting the sale price is not a trivial subject since several factors are in play! Home features such as age, lot fit, location are among the tens of those that control the price. However, understanding and disentangling these features and their impact on the price is required rigorous statistical modeling. In this project, I used the housing market's detailed information from Ames, Iowa from 2006 to 2010 in order to build a statistical model. more than 50 house features are used in this model. The main objective is to infer the correlation between these features and predict the sale price   
 
 ---
